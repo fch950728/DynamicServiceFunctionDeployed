@@ -1,0 +1,40 @@
+Change SFC 1:
+SFCnumber        origin source         origin sink            change source           change sink
+change SFC number: 8
+last SFC Source number: 3
+last SFC Sink number: 15
+change SFC Source number: 4
+change SFC Sink number: 17
+----------------------------------------------------
+Change SFC 2:
+SFCnumber        origin source         origin sink            change source           change sink
+change SFC number: 4
+last SFC Source number: 8
+last SFC Sink number: 9
+change SFC Source number: 11
+change SFC Sink number: 6
+----------------------------------------------------
+Change SFC 3:
+SFCnumber        origin source         origin sink            change source           change sink
+change SFC number: 5
+last SFC Source number: 20
+last SFC Sink number: 13
+change SFC Source number: 7
+change SFC Sink number: 3
+----------------------------------------------------
+Change SFC 4:
+SFCnumber        origin source         origin sink            change source           change sink
+change SFC number: 4
+last SFC Source number: 11
+last SFC Sink number: 6
+change SFC Source number: 6
+change SFC Sink number: 4
+----------------------------------------------------
+Change SFC 5:
+SFCnumber        origin source         origin sink            change source           change sink
+change SFC number: 3
+last SFC Source number: 17
+last SFC Sink number: 14
+change SFC Source number: 9
+change SFC Sink number: 14
+----------------------------------------------------
